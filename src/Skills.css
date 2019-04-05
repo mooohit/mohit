@@ -1,0 +1,59 @@
+.s{
+    height: 100vh;
+    
+    background-color:black;
+    overflow: hidden;
+}
+.skills{
+    margin-top: 55px;
+    padding-left:80px;
+    padding-top: 80px;
+}
+.skills .one{
+    display: flex;
+    margin-bottom: 50px;
+}
+.skills .two{
+    display: flex;
+}
+
+.skills .one .one1  a{
+    padding: 30px;
+}
+.skills .two .two1  a{
+    padding: 30px;
+}
+.skills .one .one2 a{
+    padding: 30px;
+}
+.skills .two .two2 a{
+    padding: 30px;
+}
+
+
+@media screen and (max-width:500px){
+.skills{
+    padding-left: 50px;
+}
+}
+
+@media screen and (max-width:400px){
+    .skills{
+        padding-left: 30px;
+    }
+    .skills .one{
+      
+        margin-bottom: 0px;
+    }
+    }
+    
+@media screen and (max-width:350px){
+    .skills{
+        padding-top: 40px;
+        padding-left: 10px;
+    }
+    .skills .one{
+      
+        margin-bottom: 0px;
+    }
+    }
