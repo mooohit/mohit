@@ -18,7 +18,7 @@ export default function Body(){
                                 <br></br>
                                 I am an under graduate engineer so I'm full of enthusiasm , zeal, eager, passion.
                                 <br></br>
-                                I have just started to explore this fascinating world of web development so I am 
+                                I have just started to explore this fascinating world of web development that's why I am 
 
                                 always up for new challenges and interesting projects.
 

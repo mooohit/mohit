@@ -50,22 +50,22 @@ export default function Contact(){
                     <ul>
                     <li>
                         <a href="https://www.facebook.com/MooooohitSharma" target="_blank">
-                            <FontAwesomeIcon icon={['fab', 'facebook-f']}  color="coral" size='2x'   className="w"/> 
+                            <FontAwesomeIcon icon={['fab', 'facebook-f']}  color="#49494b" size='2x'   className="w"/> 
                         </a>
                     </li>
                     <li>
                         <a href="https://www.linkedin.com/in/mohit-sharma-9a7562159/" target="_blank">
-                            <FontAwesomeIcon icon={['fab', 'linkedin']}  size='2x'   color="coral" className="w"/> 
+                            <FontAwesomeIcon icon={['fab', 'linkedin']}  size='2x'   color="#49494b" className="w"/> 
                         </a>
                     </li>
                     <li>
                         <a href="https://github.com/mooohit" target="_blank" >
-                            <FontAwesomeIcon icon={['fab', 'github']}  size='2x' color="coral"   className="w"/> 
+                            <FontAwesomeIcon icon={['fab', 'github']}  size='2x' color="#49494b"   className="w"/> 
                         </a>
                     </li>
                     <li>
                         <a href="https://www.instagram.com/mooohit" target="_blank">
-                           <FontAwesomeIcon icon={['fab', 'instagram']}  size='2x' color="coral"   className="w"/>    
+                           <FontAwesomeIcon icon={['fab', 'instagram']}  size='2x' color="#49494b"   className="w"/>    
                         </a>
                     </li>
                     </ul>

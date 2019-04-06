@@ -1,10 +1,10 @@
 .body{
     height: 100vh;
-    background-color:black;
+    background-color:#999999     ;
     overflow: hidden;
 }
 .content{
-    color: wheat;
+    
     margin-top: 55px;
 }
 .head{
@@ -12,7 +12,13 @@
     padding-left: 70px;
     font-size: 50px;
 }
-
+.head{
+    /* color: rgb(237, 100, 100) ; */
+    color: #252523;
+}
+.para{
+    color: #252523 ;
+}
 .content .para{
     padding-left: 70px;
     font-size: 20px;

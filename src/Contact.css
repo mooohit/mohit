@@ -23,7 +23,8 @@
 }
 .upar .flex1 ul li{
     
-    color: coral;
+    color: #49494b;
+    /* font-size: 2rem; */
     list-style: none;
     align-items: center;
 }
@@ -38,7 +39,8 @@
 }
 .upar .flex2 ul li{
 
-    color: coral;
+    color: #49494b;
+    /* font-size: 2rem; */
     list-style: none;
     align-items: center;
 }
