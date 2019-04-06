@@ -5,6 +5,7 @@ import App from './App';
 import Projects from './Projects'
 import Contact from './Contact'
 import Skills from './Skills'
+import Resume from './Resume'
 import {BrowserRouter as Router,Route} from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 
