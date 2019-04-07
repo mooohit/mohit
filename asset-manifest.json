@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.b77db848.chunk.css",
-  "main.js": "/static/js/main.4c6803f0.chunk.js",
-  "main.js.map": "/static/js/main.4c6803f0.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.9e94a8f2.chunk.js": "/static/js/2.9e94a8f2.chunk.js",
-  "static/js/2.9e94a8f2.chunk.js.map": "/static/js/2.9e94a8f2.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.64ad88c7203bb504e70ef44e61489ef2.js": "/precache-manifest.64ad88c7203bb504e70ef44e61489ef2.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.b77db848.chunk.css.map": "/static/css/main.b77db848.chunk.css.map"
+  "main.css": "/mohit/static/css/main.b77db848.chunk.css",
+  "main.js": "/mohit/static/js/main.4f66b27f.chunk.js",
+  "main.js.map": "/mohit/static/js/main.4f66b27f.chunk.js.map",
+  "runtime~main.js": "/mohit/static/js/runtime~main.091bd4d1.js",
+  "runtime~main.js.map": "/mohit/static/js/runtime~main.091bd4d1.js.map",
+  "static/js/2.9e94a8f2.chunk.js": "/mohit/static/js/2.9e94a8f2.chunk.js",
+  "static/js/2.9e94a8f2.chunk.js.map": "/mohit/static/js/2.9e94a8f2.chunk.js.map",
+  "index.html": "/mohit/index.html",
+  "precache-manifest.baf6078e3a1a69d76a35c4754329cb07.js": "/mohit/precache-manifest.baf6078e3a1a69d76a35c4754329cb07.js",
+  "service-worker.js": "/mohit/service-worker.js",
+  "static/css/main.b77db848.chunk.css.map": "/mohit/static/css/main.b77db848.chunk.css.map"
 }
