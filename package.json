@@ -2,7 +2,7 @@
   "name": "1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mooohit.github.io/",
+  
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.15",
     "@fortawesome/free-brands-svg-icons": "^5.8.1",
@@ -19,8 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy":"npm run build",
-    "deploy": "gh-pages -d build",
+    
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
