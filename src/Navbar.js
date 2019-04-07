@@ -5,6 +5,7 @@ import Skills from './Skills'
 import App from './App'
 import Contact from './Contact'
 import Projects from './Projects'
+import Resume from './Resume'
 import {Link,BrowserRouter as Router} from 'react-router-dom';
 
 
@@ -23,6 +24,9 @@ export default function Navbar(){
     const contact = ()=>{
         ReactDOM.render(<Contact/>,document.getElementById('root'));
     }
+    const resume = ()=>{
+        ReactDOM.render(<Resume/>,document.getElementById('root'));
+    }
 return(
     <div className="toolbar">
         <div className="main">
@@ -40,8 +44,8 @@ return(
                         <div>
                     <Link to="/skills" className="link" onClick={skills}>Skills</Link>
                     <Link to="/projects" className="link" onClick={projects}>Projects</Link>
-                    <Link to="/resume" className="link">Resume</Link>
-                    <Link to=".contact" className="link" onClick={contact}>Contact</Link>
+                    <Link to="/resume" className="link" onClick={resume}>Resume</Link>
+                    <Link to=".resume" className="link" onClick={contact}>Contact</Link>
                     </div>
                     </Router>
                 </ul>
