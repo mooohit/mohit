@@ -19,7 +19,7 @@ ReactDOM.render(
     //</div>
     
 //</Router>
-<Resume></Resume>
+<App></App>
  , document.getElementById('root'));
 
  

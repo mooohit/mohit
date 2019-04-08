@@ -7,7 +7,9 @@
     overflow: hidden;
 }
 .skills{
+    
     margin-top: 55px;
+    
     padding-left:80px;
     padding-top: 80px;
 }
@@ -20,16 +22,16 @@
 }
 
 .skills .one .one1  a{
-    padding: 30px;
+    padding: 50px;
 }
 .skills .two .two1  a{
-    padding: 30px;
+    padding: 50px;
 }
 .skills .one .one2 a{
-    padding: 30px;
+    padding: 50px;
 }
 .skills .two .two2 a{
-    padding: 30px;
+    padding: 50px;
 }
 
 

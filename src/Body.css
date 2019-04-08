@@ -1,27 +1,28 @@
 .body{
     height: 100vh;
-    background-color:#999999     ;
+    background-color:#111111     ;
     overflow: hidden;
 }
 .content{
     
-    margin-top: 55px;
+    margin-top: 115px;
+    /* font-family: 'Droid Sans', sans-serif; */
 }
 .head{
     padding-top: 70px;
     padding-left: 70px;
-    font-size: 50px;
+    font-size: 70px;
 }
 .head{
     /* color: rgb(237, 100, 100) ; */
-    color: #252523;
+    color: #49494b;
 }
 .para{
-    color: #252523 ;
+    color: #ffffff ;
 }
 .content .para{
     padding-left: 70px;
-    font-size: 20px;
+    font-size:30px;
     padding-right: 10px;
 }
 
@@ -30,13 +31,17 @@
 } */
 
 @media screen and (max-width:900px){
+    .content{
+    
+        margin-top: 45px;
+    }
     .head,.content .para{
         padding-left: 50px;
     }
 }
 @media screen and (max-width:700px){
     .content .para{
-        font-size: 17px;
+        font-size: 25px;
     }
 }
 
@@ -47,6 +52,6 @@
 }
 @media screen and (max-width:350px){
     .content .para{
-        font-size: 15px;
+        font-size: 20px;
     }
 }
