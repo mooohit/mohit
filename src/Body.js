@@ -14,7 +14,7 @@ export default function Body(){
                             <p>
                                 The name's Mohit Sharma.
                                 <br></br>
-                                I am a seeker of knowledge, hungry for wisdom and an aspiring &lt;Web Developer/&gt;.
+                                I am a seeker of knowledge, hungry for wisdom and an aspiring Web Developer.
                                 <br></br>
                                 I am an under graduate engineer so I'm full of enthusiasm , zeal, eager, and passion.
                                 <br></br>
