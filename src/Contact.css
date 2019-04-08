@@ -24,7 +24,7 @@
 .upar .flex1 ul li{
     
     color: #49494b;
-    /* font-size: 2rem; */
+    font-size: 2rem;
     list-style: none;
     align-items: center;
 }
@@ -40,9 +40,10 @@
 .upar .flex2 ul li{
 
     color: #49494b;
-    /* font-size: 2rem; */
+    font-size: 2rem;
     list-style: none;
     align-items: center;
+    
 }
 
 .contact .btn ul{
@@ -63,7 +64,7 @@
     
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:600px){
     .upar{
         flex-direction: column;
         margin-top: 200px;
