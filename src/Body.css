@@ -40,12 +40,12 @@
     }
     .head{
      
-        font-size: 50px;
+        font-size: 60px;
     }
 }
 @media screen and (max-width:700px){
     .content .para{
-        font-size: 15px;
+        font-size: 25px;
     }
 }
 
@@ -56,6 +56,6 @@
 }
 @media screen and (max-width:350px){
     .content .para{
-        /* font-size: 20px; */
+        font-size: 17px;
     }
 }
