@@ -5,7 +5,7 @@
 }
 .content{
     
-    margin-top: 65px;
+    margin-top: 55px;
     /* font-family: 'Droid Sans', sans-serif; */
 }
 .head{
@@ -38,10 +38,14 @@
     .head,.content .para{
         padding-left: 50px;
     }
+    .head{
+     
+        font-size: 50px;
+    }
 }
 @media screen and (max-width:700px){
     .content .para{
-        font-size: 25px;
+        font-size: 15px;
     }
 }
 
@@ -52,6 +56,6 @@
 }
 @media screen and (max-width:350px){
     .content .para{
-        font-size: 20px;
+        /* font-size: 20px; */
     }
 }
