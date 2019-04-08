@@ -53,8 +53,6 @@
     .head,.content .para{
         padding-left: 17px;
     }
-}
-@media screen and (max-width:350px){
     .content .para{
         font-size: 17px;
     }
