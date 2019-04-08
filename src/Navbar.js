@@ -45,7 +45,7 @@ return(
                     <Link to="/skills" className="link" onClick={skills}>Skills</Link>
                     <Link to="/projects" className="link" onClick={projects}>Projects</Link>
                     <Link to="/resume" className="link" onClick={resume}>Resume</Link>
-                    <Link to=".resume" className="link" onClick={contact}>Contact</Link>
+                    <Link to="/contact" className="link" onClick={contact}>Contact</Link>
                     </div>
                     </Router>
                 </ul>
