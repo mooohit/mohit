@@ -44,7 +44,10 @@
     background-color: white;
     
 }
-
+.main .list .link:hover{
+    color: black
+    
+}
 .color{
     display: none;
     width: 100%;
