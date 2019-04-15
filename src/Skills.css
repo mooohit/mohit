@@ -5,6 +5,9 @@
  ;
     overflow: hidden;
 }
+.align{
+    margin: auto;
+}
 .skills{
     
     margin-top: 55px;
